@@ -8,3 +8,5 @@ I am (I have been) adding this line while in the MASTER branch
 =======
 I am adding this line while in dbj_branch_1
 >>>>>>> origin/dbj_branch_1
+
+OK, let us now add a bit more content while in the MASTER branch.
