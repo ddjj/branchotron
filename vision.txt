@@ -3,6 +3,7 @@
 Main Title 
 ==========
 
+<<<<<<< HEAD
 I am (I have been) adding this line while in the MASTER branch 
 
 dbj_interestig_stuff branch has been created after dbj_branch_1 and after MASTER (of course)
@@ -10,3 +11,6 @@ so in here we do see the content created in the MASTER branch BEFORE this branch
 and this branch is (yes) dbj_interesting_stuff
 
 Going aged inside this branch ...
+=======
+I am adding this line while in dbj_branch_1
+>>>>>>> origin/dbj_branch_1
