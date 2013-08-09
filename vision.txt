@@ -23,3 +23,6 @@ OK, let us now add a bit more content while in the MASTER branch.
 =======
 After merging branch_1 into the interesting branch I am adding this line.
 >>>>>>> origin/dbj_interesting_stuff
+
+Here we are in freshly made branch named: 3
+
