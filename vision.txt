@@ -14,3 +14,5 @@ Going aged inside this branch ...
 =======
 I am adding this line while in dbj_branch_1
 >>>>>>> origin/dbj_branch_1
+
+After merging branch_1 into the interesting branch I am adding this line.
