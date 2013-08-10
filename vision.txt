@@ -27,3 +27,5 @@ After merging branch_1 into the interesting branch I am adding this line.
 Here we are in freshly made branch named: 3
 
 One more commit in 3!
+
+And one more commit in 3!
