@@ -12,7 +12,7 @@ dbj_interestig_stuff branch has been created after dbj_branch_1 and after MASTER
 so in here we do see the content created in the MASTER branch BEFORE this branch is created.
 and this branch is (yes) dbj_interesting_stuff
 
-Going aged inside this branch ...
+Going again inside this branch ...
 >>>>>>> origin/dbj_interesting_stuff
 =======
 I am adding this line while in dbj_branch_1
